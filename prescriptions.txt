@@ -1,0 +1,10 @@
+
+Prescription Details:
+Patient Name: nipuna
+Doctor: Dr. Smith
+Disease: fever
+Medicines: xjxx,dd,dd,ddd
+Precautions: skshdldld
+Next Visit: 2020
+Total Bill: 4000.00
+------------------------
